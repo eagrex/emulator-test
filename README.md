@@ -1,2 +1,0 @@
-# emulator-test
-test
